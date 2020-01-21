@@ -12,8 +12,9 @@
 9.  "mv"- moves or rename files
 10. "cp"- copies files
     
-    ##  Git Commands ##
+##  Git Commands ##
     
-1. git clone (url) - clones repository to your local mission
-2. git add(file/directory)- adds change in the working directory to the staging area. 
-    * git command -m 
+1. git clone (url) - clones repository to your computer
+2. git add(file/directory) - adds change in the working directory to the staging area
+3. git commit - commits/saves changes in staging area to the local repository
+4. git push - 
