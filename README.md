@@ -11,3 +11,9 @@
 8.  "mkdir" - creates a directory
 9.  "mv"- moves or rename files
 10. "cp"- copies files
+    
+    ##  Git Commands ##
+    
+1. git clone (url) - clones repository to your local mission
+2. git add(file/directory)- adds change in the working directory to the staging area. 
+    * git command -m 
