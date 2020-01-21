@@ -5,4 +5,5 @@
 2. "ls"= List of what's in a directory
 3. "cd" - change the working directory
 4. "pwd" - show the current working directory
-   
+5. "touch"= makes a file
+6. "RM"= deletes a file 
