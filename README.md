@@ -17,4 +17,4 @@
 1. git clone (url) - clones repository to your computer
 2. git add(file/directory) - adds change in the working directory to the staging area
 3. git commit - commits/saves changes in staging area to the local repository
-4. git push - 
+4. git push - pushes
